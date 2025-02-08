@@ -39,6 +39,6 @@ Stop Container
       
     docker stop [CONTAINER_ID]
 
-Delet Container
+Delete Container
       
-    Stop Container [CONTAINER_ID]
+    docker rm [CONTAINER_ID]
